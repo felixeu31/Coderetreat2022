@@ -1,0 +1,7 @@
+default:
+  suites:
+    conway_features:
+      paths:
+        - "%paths.base%/tests/Conway/Conway.feature"
+      contexts:
+        - App\Tests\Conway\Contexts\ConwayContext

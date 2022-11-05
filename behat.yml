@@ -1,0 +1,4 @@
+default:
+
+imports:
+  - /tests/Conway/conway.yml
